@@ -7,7 +7,7 @@
 - Mamani Ramos, Jhonatan Stveve (2019063316)
 - Oswaldo Jesus, Chino Conde (2017057434)
 - Jhon Romario Poma Chura (2019064022)
-- Algenica Beatriz Romero Roque (2019063327)
+- Angelica Beatriz Romero Roque (2019063327)
 
 
 ## 1. Planteamiento del Problema
